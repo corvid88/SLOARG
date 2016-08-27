@@ -2,7 +2,7 @@
 
 # SETTINGS
 
-ROOT_DIRECTORY="/home"
+ROOT_DIRECTORY="/Users/davemiddleton/Sites/SLOARGMaster"
 
 # All your input files that VIC will use.
 INPUT_PARAMETERS_DIRECTORY="src/VIC_sample_data/classic/Stehekin/parameters"
