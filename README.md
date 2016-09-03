@@ -51,3 +51,21 @@ Global Parameters Instructions:
 
 Running the models instructions:
 [http://vic.readthedocs.io/en/develop/Documentation/Drivers/Classic/RunVIC/](http://vic.readthedocs.io/en/develop/Documentation/Drivers/Classic/RunVIC/)
+
+## Basic Terminal Commands
+
+- List files / folders in current directory: 
+```
+ls
+```
+- Change directory:
+```
+cd <NAME_OF_DIRECTORY>
+```
+- Name the directory you're in:
+```
+pwd
+```
+- Use tab key to autocomplete file and folder names
+
+- Use up arrow to cycle through past commands
