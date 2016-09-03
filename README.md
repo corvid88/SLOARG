@@ -34,3 +34,14 @@ $ cp VIC/vic/drivers/classic/vic_classic.exe ./vic_run.exe
 ..* Defines file paths for all the other "lesser" parameters files. Make sure these are set appropriate to your machine.
 4. Run the model!
 `./vic_run.exe -g <GLOBAL_PARAMETERS_FILENAME>`
+
+## Resources
+
+VIC Model Docs:
+[http://vic.readthedocs.io/en/develop/Overview/ModelOverview/](http://vic.readthedocs.io/en/develop/Overview/ModelOverview/)
+
+Global Parameters Instructions:
+[http://vic.readthedocs.io/en/develop/Documentation/Drivers/Classic/GlobalParam/](http://vic.readthedocs.io/en/develop/Documentation/Drivers/Classic/GlobalParam/)
+
+Running the models instructions:
+[http://vic.readthedocs.io/en/develop/Documentation/Drivers/Classic/RunVIC/](http://vic.readthedocs.io/en/develop/Documentation/Drivers/Classic/RunVIC/)
